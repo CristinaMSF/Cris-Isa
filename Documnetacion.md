@@ -17,6 +17,46 @@ El conjunto de datos EM-DAT - Country Profiles proporciona cifras agregadas de d
 - Pérdidas económicas totales (original): Las pérdidas económicas totales resultantes del desastre, en la moneda original del país, en un año determinado para un país específico y subtipo de desastre.
 - Pérdidas económicas totales (ajustadas): Las pérdidas económicas totales resultantes del desastre, ajustadas por inflación y expresadas en dólares estadounidenses de 2019, en un año determinado para un país específico y subtipo de desastre.
 
+Year: Año en el que ocurrió el desastre natural.
+
+
+Country: País donde ocurrió el desastre.
+
+
+ISO: Código ISO del país.
+
+
+Disaster Group: Grupo del desastre (por ejemplo, geofísico, meteorológico, etc.).
+
+
+Disaster Subgroup: Subgrupo dentro del tipo de desastre (por ejemplo, terremoto, huracán, etc.).
+
+
+Disaster Type: Tipo general de desastre (ej. terremoto, inundación).
+
+
+Disaster Subtype: Subtipo del desastre (más específico que el tipo).
+
+
+Total Events: Número total de eventos (pueden ser múltiples eventos en un solo desastre).
+
+
+Total Affected: Número total de personas afectadas.
+
+
+Total Deaths: Número total de muertes.
+
+
+Total Damage (USD, original): Daños totales en USD según el valor original.
+
+
+Total Damage (USD, adjusted): Daños totales en USD ajustados (probablemente por inflación u otros factores).
+
+
+CPI: Índice de Precios al Consumidor.
+
+
+
 ## Volumen de datos:
 
 El conjunto de datos contiene múltiples filas de datos para cada combinación de año, país y subtipo de desastre, que abarcan desde 1900 hasta 2022. El conjunto de datos tiene un total de 47.682 filas y 8 columnas.
