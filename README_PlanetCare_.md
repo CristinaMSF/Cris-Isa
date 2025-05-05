@@ -190,14 +190,13 @@ Este proyecto ha sido una experiencia de gran valor donde hemos trabajado en equ
 
 ## 👥 Autoras
 
-👩‍💻 **Cristina Martín** – [LinkedIn](https://linkedin.com/in/cristinamartin)  
+👩‍💻 **Cristina Martín** – [LinkedIn](https://www.linkedin.com/in/cristina-martin-sanfrutos-2a4274b5/)  
 👩‍💻 **Isabel García** – [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 
 ---
 
 ## 🔗 Enlaces útiles
-
-- 📊 **Dashboard en Power BI**: *(añadir si está publicado)*  
+ 
 - 💻 **Repositorio del proyecto**: [GitHub](https://github.com/Isabel-GM/Cris-Isa)
 
 ---
@@ -205,7 +204,7 @@ Este proyecto ha sido una experiencia de gran valor donde hemos trabajado en equ
 ## 📢 ¡Síguenos!
 
 - 🐱‍👤 GitHub Isabel: [Isabel-GM](https://github.com/Isabel-GM)
-- 🌐 LinkedIn Cristina: [linkedin.com/in/cristinamartin](https://linkedin.com/in/cristinamartin)  
+- 🌐 LinkedIn Cristina: [linkedin.com/in/cristinamartin](https://www.linkedin.com/in/cristina-martin-sanfrutos-2a4274b5/)  
 - 🌐 LinkedIn Isabel: [linkedin.com/in/isabelgarcia](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 
 ---
