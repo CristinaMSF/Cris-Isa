@@ -203,6 +203,7 @@ Este proyecto ha sido una experiencia de gran valor donde hemos trabajado en equ
 
 ## 📢 ¡Síguenos!
 
+- 🐱‍👤 GitHub Cristina: [CristinaMSF](https://github.com/CristinaMSF)
 - 🐱‍👤 GitHub Isabel: [Isabel-GM](https://github.com/Isabel-GM)
 - 🌐 LinkedIn Cristina: [linkedin.com/in/cristinamartin](https://www.linkedin.com/in/cristina-martin-sanfrutos-2a4274b5/)  
 - 🌐 LinkedIn Isabel: [linkedin.com/in/isabelgarcia](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
