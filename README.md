@@ -94,6 +94,7 @@ This project has been a highly valuable experience where we worked as a team, ap
 
 ## 📢 Follow Us
 
+- 🐱‍👤 GitHub Cristina: [CristinaMSF](https://github.com/CristinaMSF)
 - 🐱‍👤 GitHub Isabel: [Isabel-GM](https://github.com/Isabel-GM)
 - 🌐 LinkedIn Cristina: [linkedin.com/in/cristinamartin](https://www.linkedin.com/in/cristina-martin-sanfrutos-2a4274b5/)  
 - 🌐 LinkedIn Isabel: [linkedin.com/in/isabelgarcia](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
